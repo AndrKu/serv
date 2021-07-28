@@ -91,7 +91,7 @@ let arr = ['plam.png', 33, 'nyny.bmp'];
 
 console.log(arr[2]); */
 
-//alert('hello');
+//ale('hello');
 
 
     
