@@ -1,5 +1,5 @@
 
-
+/*
 //Смена фото функция onclick
 let myImage = document.querySelector('img');
 
@@ -34,7 +34,7 @@ function setUserName() {
  
 
 
-/* 
+
 
 if (num < 49) {
    console.log('neverno');
@@ -91,7 +91,9 @@ let arr = ['plam.png', 33, 'nyny.bmp'];
 
 console.log(arr[2]); */
 
-//ale('hello');
+function calc(a,b) {
+
+   
+}
 
 
-    

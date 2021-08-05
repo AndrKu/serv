@@ -1,17 +1,17 @@
-let num = 50;
+"use strict";
 
-if (num < 49) {
+let numa = 50;
+
+if (numa < 49) {
     console.log('NoNo')
-} else if (num > 100) {
+} else if (numa > 100) {
     console.log('Mnogo');
 } else {
     console.log('Yes');
 
 }
 
-(num ==50) ? console.log('Yes') : console.log('NoNo');
-
-let numa = 50;
+(numa ==50) ? console.log('Yes') : console.log('NoNo');
 
 switch (numa) {
     case numa < 49:
@@ -21,9 +21,20 @@ switch (numa) {
     case numa > 100:
       console.log('Mnogo');
     break;
+} 
 
 
+let num = 1;
+let result = ['zima', 'vesna'];
 
-    }   
+switch (num) {
 
-   
+    case 1:
+      console.log(result[1])
+    break;
+}
+
+
+  
+  
+      
